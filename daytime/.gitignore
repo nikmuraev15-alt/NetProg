@@ -1,3 +1,5 @@
-daytime_client
 *.o
-*.out
+*.exe
+daytime_client
+daytime_server
+*.log
