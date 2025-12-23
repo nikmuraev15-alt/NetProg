@@ -1,3 +1,6 @@
-echo_client
 *.o
-*.out
+*.exe
+echo_client
+echo_server
+*.log
+build/
